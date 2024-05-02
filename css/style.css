@@ -1,0 +1,105 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    background-color: black;
+}
+
+.page {
+    color: #f1f1f1;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+.page h1 {
+    font-size: 40px;
+    font-weight: 100;
+    padding: 30px 0px 0px 45PX;
+    letter-spacing: 4px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.page h3 {
+    font-size: 35px;
+    font-weight: 550;
+    color: #008099;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 45px;
+}
+
+.page h4 {
+    width: 50%;
+    font-size: 19px;
+    font-weight: normal;
+    color: #999ea5;
+    margin-bottom: 140px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 45px;
+}
+
+.col-sm-6 {
+    width: 50%;
+    float: left;
+}
+
+.col-sm-6 img {
+    padding-top: 95px;
+    padding-left: 50px;
+    width: 75%;
+    min-height: 30%;
+}
+
+.about h1 {
+    font-size: 17px;
+    color: white;
+    letter-spacing: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.about h5 {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #008099;
+    font-weight: 500;
+    letter-spacing: 4px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.about p {
+    font-size: 38px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+.about ul {
+    font-size: 18px;
+    font-weight: normal;
+    color: #6aecce;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.button {
+    font-size: 15px;
+    padding: 25px 70px 25px 70px;
+    border: 2px solid #008099;
+    border-radius: 50px;
+    background: #008099;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.footer h1 {
+    font-weight: 15;
+    font-size: 40px;
+    padding: 800px 0px 20px 620px;
+    color: white;
+
+}
